@@ -1,15 +1,10 @@
-0x11. C - printf team project
+0x11. C - printf collaboration project 1
 
-Group Project:                                                                      
-                                                                                    
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
 Write a function that produces output according to a format.                        
-                                                                                    
-                                                                                    
-1. Education is when you read the fine print. Experience is what you get if you don'
-t                                                                                   
-Handle the following conversion specifiers:
+                                                                                                                                                     
+1. Education is when you read the fine print. Experience is what you get if you don't handle the following conversion specifiers:
 
 2. With a face like mine, I do better in print                                      
 Handle the following custom conversion specifiers:                                  
@@ -31,11 +26,9 @@ Handle the following conversion specifier: p.
 Handle the following flag characters for non-custom conversion specifiers:          
                                                                                     
 8. Sarcasm is lost in print                                                         
-Handle the following length modifiers for non-custom conversion specifiers:         
-                                                                                    
-l                                                                                   
-h                                                                                   
-Conversion specifiers to handle: d, i, u, o, x, X                                   
+Handle the following length modifiers for non-custom conversion specifiers:                                                                                  
+   l, h                                                                                   
+-Conversion specifiers to handle: d, i, u, o, x, X                                   
                                                                                     
 9. Print some money and give it to us for the rain forests                          
 Handle the field width for non-custom conversion specifiers.                        
@@ -58,5 +51,4 @@ Handle the following custom conversion specifier:
 ring                                                                                
 Handle the following custom conversion specifier:                                   
                                                                                     
-15. *                                                                               
-All the above options work well together. 
+15. All the above options work well together. 
